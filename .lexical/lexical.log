@@ -1,0 +1,60 @@
+11:12:20.170 [info] Application logger started at :nonode@nohost
+11:12:21.740 [error] FATAL: Lexical is not compatible with Elixir 1.11.2
+
+Lexical is compatible with the following versions of Elixir:
+
+  >= 1.13.0
+  >= 1.14.0
+  >= 1.15.3
+  >= 1.16.0
+  >= 1.17.0
+  >= 1.17.0-rc
+
+11:12:22.683 [info] Application logger started at :nonode@nohost
+11:12:24.216 [error] FATAL: Lexical is not compatible with Elixir 1.11.2
+
+Lexical is compatible with the following versions of Elixir:
+
+  >= 1.13.0
+  >= 1.14.0
+  >= 1.15.3
+  >= 1.16.0
+  >= 1.17.0
+  >= 1.17.0-rc
+
+11:12:25.132 [info] Application logger started at :nonode@nohost
+11:12:26.812 [error] FATAL: Lexical is not compatible with Elixir 1.11.2
+
+Lexical is compatible with the following versions of Elixir:
+
+  >= 1.13.0
+  >= 1.14.0
+  >= 1.15.3
+  >= 1.16.0
+  >= 1.17.0
+  >= 1.17.0-rc
+
+11:12:28.031 [info] Application logger started at :nonode@nohost
+11:12:29.660 [error] FATAL: Lexical is not compatible with Elixir 1.11.2
+
+Lexical is compatible with the following versions of Elixir:
+
+  >= 1.13.0
+  >= 1.14.0
+  >= 1.15.3
+  >= 1.16.0
+  >= 1.17.0
+  >= 1.17.0-rc
+
+11:12:30.739 [info] Application logger started at :nonode@nohost
+11:12:32.163 [error] FATAL: Lexical is not compatible with Elixir 1.11.2
+
+Lexical is compatible with the following versions of Elixir:
+
+  >= 1.13.0
+  >= 1.14.0
+  >= 1.15.3
+  >= 1.16.0
+  >= 1.17.0
+  >= 1.17.0-rc
+
